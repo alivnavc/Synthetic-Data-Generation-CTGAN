@@ -58,7 +58,7 @@ from sdv.single_table import CTGANSynthesizer
 from sdv.metadata import SingleTableMetadata
 
 def main():
-    st.title("CTGAN Data Synthesizer")
+    st.title("Data Synthesizer")
 
     # File upload
     uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
