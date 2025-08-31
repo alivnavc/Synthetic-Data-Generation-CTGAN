@@ -75,7 +75,7 @@ Example workflow:
 3. Generate synthetic data
 
 
-## 📚 References
+## References
 
 * [SDV Documentation](https://sdv.dev/)
 * [CTGAN Paper](https://arxiv.org/abs/1907.00503)
@@ -83,7 +83,7 @@ Example workflow:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
